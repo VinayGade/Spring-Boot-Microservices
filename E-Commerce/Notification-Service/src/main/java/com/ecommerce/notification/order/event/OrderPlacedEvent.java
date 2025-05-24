@@ -1,4 +1,4 @@
-package com.ecommerce.notification.order;
+package com.ecommerce.notification.order.event;
 
 import lombok.*;
 
