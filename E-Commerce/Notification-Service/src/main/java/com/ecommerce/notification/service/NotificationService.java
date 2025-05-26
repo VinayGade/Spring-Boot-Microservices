@@ -46,5 +46,4 @@ public class NotificationService {
             throw new RuntimeException("Exception occurred when sending mail to springshop@email.com", e);
         }
     }
-
 }

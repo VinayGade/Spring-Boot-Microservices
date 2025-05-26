@@ -8,7 +8,6 @@ import lombok.*;
 @Getter
 @Setter
 public class OrderPlacedEvent {
-
     private String orderNumber;
     private String email;
 }
